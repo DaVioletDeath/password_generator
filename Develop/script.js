@@ -10,7 +10,7 @@ function writePassword() {
 
 }
 function generatePassword() {
-    var fromPrompt = prompt("Select a number 8 through 128");
+var fromPrompt = prompt("Select a number 8 through 128");
 var totalCharacters = parseInt(fromPrompt);
 
 console.log(totalCharacters);
