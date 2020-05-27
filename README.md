@@ -4,5 +4,5 @@
     * generates 8 to 128 character passwords for the user
     * uses not only uppercase and lowercase letters, but special characters and numbers as well to add extra security
     * simple design and strong red color so the user is not distracted and knows exactly what to press 
-    https://davioletdeath.github.io/password_generator/
-    ![Alt text](https://cdn.discordapp.com/attachments/677340058000424970/715309689256280194/Screenshot_150.png "Password Generator")
+https://davioletdeath.github.io/password_generator/
+[Alt text](https://cdn.discordapp.com/attachments/677340058000424970/715309689256280194/Screenshot_150.png "Password Generator")
